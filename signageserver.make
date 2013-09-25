@@ -33,3 +33,9 @@ projects[skycons][download][type] = git
 projects[skycons][download][url] = "https://github.com/darkskyapp/skycons.git"
 projects[skycons][download][branch] = master
 
+; Bongo
+projects[bongo][type] = "module"
+projects[bongo][subdir] = "custom"
+projects[bongo][download][branch] = "7.x-1.x"
+projects[bongo][download][type] = git
+projects[bongo][download][url] = "http://git.drupal.org/sandbox/bneil/1807738.git"
