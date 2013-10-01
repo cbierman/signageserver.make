@@ -42,7 +42,6 @@ projects[bongo][download][url] = "http://git.drupal.org/sandbox/bneil/1807738.gi
 
 ;Uiowa Signage theme
 projects[uiowa_signage_theme][type] = "theme"
-projects[uiowa_signage_theme][subdir] = "sites/all/themes"
 projects[uiowa_signage_theme][download][type] = git
 projects[uiowa_signage_theme][download][url] = "https://github.com/ITS-UofIowa/uiowa_signage_theme.git"
 
